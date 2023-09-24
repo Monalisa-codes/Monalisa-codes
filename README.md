@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monalisa-codes
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in Coding & Cricket
 - 🌱 I’m currently learning different programming languages 
 - 💞️ I’m looking to collaborate on projects
 
